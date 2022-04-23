@@ -9,7 +9,7 @@ This project is a experimental use of OpenCV Library to convert all frames of a 
 
 ### Installation
 ```
-git clone git@github.com:SalvoCozzubo/opencv-export-video-to-jpeg.git
+
 cd opencv-export-video-to-jpeg
 ```
 
